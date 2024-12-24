@@ -270,11 +270,6 @@ export default function Home() {
                             {/* end here */}
                             <div className='fifth-container'>
                             <div className="fifth">
-                            <ReactPlayer 
-width="330px" 
-height="200px" 
-url="./public/imgs/prototype" 
-light="/static/normal-sarong-0007.jpg"/>
                             </div>
                             </div>
                             
